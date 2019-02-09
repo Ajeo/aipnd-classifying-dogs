@@ -1,6 +1,6 @@
 # classifying-dogs
 
-This is the my classification dogs Lab from my ["Artificial Intelligence With Python" Nano Degree](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
+This is my classification dogs Lab from my ["Artificial Intelligence With Python" Nano Degree](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089).
 
 #### Principle Objectives
 
@@ -39,6 +39,6 @@ This will generate 3 files with the performance detail for each CNN model archit
 
 #### Results
 
-![Screenshot](https://raw.githubusercontent.com/Ajeo/classifying-dogs/master/screenshots/results. png)
+![Screenshot](https://raw.githubusercontent.com/Ajeo/classifying-dogs/master/screenshots/results.png)
 
 VGG has the best performance
